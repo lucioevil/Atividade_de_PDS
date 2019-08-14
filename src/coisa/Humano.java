@@ -8,7 +8,7 @@ package coisa;
 /**
  * Objetivo da classe: atribuir e retornar dados do humano.
  * 
- * @author Johny Lúcio
+ * @author Johny Lúcio e José Jardeu
  * @since '06-08-2019'
  * 
  */
