@@ -8,7 +8,7 @@ package coisa;
 /**
  * Objetivo da classe: atribuir e retornar dados sobre o vídeo.
  * 
- * @author Johny Lúcio Teixeira da Costa
+ * @author Johny Lúcio Teixeira da Costa e José Jardeu Vicente da Silva
  * @since '14-08-2019' 
  */
 public class xvideos {
