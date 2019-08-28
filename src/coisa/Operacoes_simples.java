@@ -44,7 +44,7 @@ public class Operacoes_simples {
      * @param n2 Double - Número a ser dividido.
      */
     public static double dividir(double n1, double n2) {
-        double quociente = n1 / n1;
+        double quociente = n1 / n2;
         return quociente;
     }
 
